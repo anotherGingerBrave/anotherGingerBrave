@@ -7,6 +7,8 @@ I'm not gonna do much with this account, mostly just reporting issues in TIC-80 
 __urubu do pix#7426__
 
 # PROJECT IDEAS #
+Finished projects: fading and moving hello world
+
 Current projects: none
 
 Recent ideas: remaking Chrome Dyno but it runs on terminal(__hard__)
