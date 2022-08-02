@@ -11,6 +11,6 @@ Finished projects: fading and moving hello world
 
 Current projects: none
 
-Recent ideas: remaking Chrome Dyno but it runs on terminal(__hard__)
+Recent ideas: none
 
 Ideas i had before: making my own terminal dungeon game(__failed__)
